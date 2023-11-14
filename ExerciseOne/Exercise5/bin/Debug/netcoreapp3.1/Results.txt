@@ -1,0 +1,10 @@
+Name: Emmet
+Student Number: S00213942
+      Math          h         90        100
+   History          H         20        100
+     Beans          O         10         66
+       OOD          H        100         56
+     Games          H         50         20
+Orthodontics          H         60          0
+   English          O         50          0
+Total Points : 342
